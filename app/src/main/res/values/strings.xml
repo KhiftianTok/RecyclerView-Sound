@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pest-Repellant</string>
+    <string name='desc_nyamuk'>
+        Nyamuk adalah serangga tergolong dalam order Diptera; genera termasuk Anopheles, Culex, Psorophora, Ochlerotatus, Aedes, Sabethes, Wyeomyia, Culiseta, dan Haemagoggus untuk jumlah keseluruhan sekitar 35 genera yang merangkum 2700 spesies. Nyamuk mempunyai dua sayap bersisik, tubuh yang langsing, dan enam kaki panjang; antarspesies berbeda-beda tetapi jarang sekali melebihi 15 mm.Dalam bahasa Inggris, nyamuk dikenal sebagai "Mosquito", berasal dari sebuah kata dalam bahasa Spanyol atau bahasa Portugis yang berarti lalat kecil. Penggunaan kata Mosquito bermula sejak tahun 1583. Di Britania Raya nyamuk dikenal sebagai gnats.
+    </string>
+    <string name='desc_tikus'>
+        Suku Tikus-tikusan atau Muridae adalah salah satu famili hewan pengerat dari ordo Rodentia. Spesies tikus yang paling dikenal adalah mencit (Mus spp.) serta tikus got (Rattus norvegicus) yang ditemukan hampir di semua negara dan merupakan suatu organisme model yang penting dalam biologi; juga merupakan hewan peliharaan yang populer.
+    </string>
+    <string name='desc_kadal'>
+        Kadal atau bengkarung adalah kelompok reptilia bersisik berkaki empat (beberapa spesies tidak berkaki dan mirip ular, tetapi bukan ular) yang tersebar sangat luas di dunia. Secara ilmiah, kelompok besar ini dikenal sebagai subordo atau anak bangsa Lacertilia (beberapa literatur menyebut Sauria) yang merupakan anggota dari bangsa reptilia bersisik (Squamata) bersama dengan ular.[1]
+    </string>
+    <string name='freq_nyamuk'>44</string>
+    <string name='freq_tikus'>720</string>
+    <string name='freq_kadal'>60</string>
+</resources>
